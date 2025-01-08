@@ -1,16 +1,15 @@
-## Hi there 👋
+## 
+- 👋 Hi there, I'm Rogers Kasozi
+- I enjoy solving data related problems.
+- I’m currently working on data for streamlining sales operations.
+- I’m interested in collaborations on sales metrics analysis, root cause analysis, market research and data interpretation.
+- Ask me about sales process understanding, revenue optimisation, and customer segmentation.
 
-<!--
-**rka5o3i/rka5o3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+- 👨‍💻I’m also currently learning analysis of biological data from experiments. 
+- 💬 So ask me about genomics and bioinformatics tools used in clinical diagnosis and research.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+Connect with me:
+- 📫 kasoziroger86@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogers-k-62937582?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNBtdoXCKS5%2BIeJeDVG4ekg%3D%3D)
